@@ -1,9 +1,17 @@
 body {
-    background-color: rgb(8, 4, 25);
+    background-color: rgb(1, 16, 33);
     font-family: Garamond, Verdana, Arial;
     color: aliceblue;
+    font-size: 1.35rem;
+    max-width: 550px;
+    margin: 60px auto;
 } 
+
+.list {
+    padding: 24px 24px;
+}
 
 a {
     color:aliceblue;
+    padding: 24px 24px;
 }
